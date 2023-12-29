@@ -1,0 +1,1 @@
+Hello. This is a test for Python voice recognition. Where are you from? What is your name? What do you like to eat? What is your favorite thing to do?
